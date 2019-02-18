@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.8.0-dev.11",
+    "libraryName": "customizer-lifecycle-events",
+    "libraryId": "b54b8795-f604-46d0-88bb-6316d605329d",
+    "packageManager": "npm",
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
